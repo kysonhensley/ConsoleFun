@@ -10,9 +10,7 @@
             Console.WriteLine("Write the Fourth line!");
             Console.WriteLine("Write the Fifth line!");
             Console.WriteLine("Whew!... I'm tired now");
-
             Console.Beep();
-
             Console.Read();
         }
     }
