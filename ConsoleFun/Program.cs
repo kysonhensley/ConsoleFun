@@ -10,7 +10,9 @@ namespace ConsoleFun
     {
         static void Main(string[] args)
         {
-
+            Console.BackgroundColor = ConsoleColor.Green;
+            Console.Title = "C# is super edgy";
+            
             Console.WriteLine("Write the first line!");
             Console.WriteLine("Write the Second line!");
             Console.WriteLine("Write the Third line!");
@@ -54,7 +56,7 @@ namespace ConsoleFun
             }
 
             Console.WriteLine("Done!");
-            Console.ReadKey(); // Pause to hear melody and see output
+            Console.Read(); // Pause to hear melody and see output
         }
     }
 }
