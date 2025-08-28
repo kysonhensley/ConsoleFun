@@ -1,4 +1,10 @@
-﻿namespace ConsoleFun
+﻿//Kyson Hensley
+//RCET2265
+//Fall 2025
+//ConsoleFun
+//https://github.com/kysonhensley/ConsoleFun.git
+
+namespace ConsoleFun
 {
     internal class Program
     {
